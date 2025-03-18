@@ -1,8 +1,6 @@
 Me chamo Naomi, tenho 20 anos e estudo sistemas de informação. Nesse perfil, mostro alguns dos meus projetos, explicando a lógica e ferramentas usadas. 
 
-Por favor, encontre-me no LinkedIn para uma descrição mais detalhada da minha experiência de trabalho completa, educação e certificação. Você pode entrar em contato comigo por e-mail em info@roaldnefs.com (PGP).
-
-Por favor, encontre-me no LinkedIn para uma descrição mais detalhada da minha experiência de trabalho completa, educação e certificação. Você pode entrar em contato comigo por e-mail em info@roaldnefs.com (PGP).
+Por favor, encontre-me no LinkedIn para uma descrição mais detalhada da minha experiência de trabalho completa, educação e certificação. Você pode entrar em contato comigo por e-mail em arakakinaomi228@gmail.com.
 
 ### 🤖 Linguagens e Tecnologias
 
