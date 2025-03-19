@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzA5bWhxdXc4YnltbmV0azN6Z2ZvZWhuZ3dqcjdpcW83N25hcmNkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 <div style="width: 100;">
-Estudo sistemas e informação e sou apaixonada pela interação entre dados, <br/> tecnologia e negócios. Nesse perfil, mostro alguns dos meus projetos, explicando a <br/> lógica e as ferramentas usadas.
+Estudo sistemas e informação e sou apaixonada pela interação entre tecnologia e negócios. Nesse perfil, mostro alguns dos meus projetos, explicando a lógica e as ferramentas usadas.
 
 Encontre-me no [LinkedIn]() para uma descrição mais detalhada da minha experiência <br/> de trabalho completa, educação e certificações. <br/> Você pode entrar em contato comigo por e-mail em arakakinaomi228@gmail.com.
 </div>
