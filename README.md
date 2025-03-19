@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Me chamo Naomi</h1>
-
+<h3>Desenvolvedora Fullstack</h3>
 <img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzA5bWhxdXc4YnltbmV0azN6Z2ZvZWhuZ3dqcjdpcW83N25hcmNkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 
