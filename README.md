@@ -8,7 +8,7 @@
 <div style="width: 100;">
 Estudo sistemas e informação e sou apaixonada pela interação entre tecnologia e negócios. Nesse perfil, mostro alguns dos meus projetos, explicando a lógica e as ferramentas usadas.
 
-Encontre-me no [LinkedIn]() para uma descrição mais detalhada da minha experiência de trabalho completa, educação e certificações. <br/> Você pode entrar em contato comigo por e-mail em arakakinaomi228@gmail.com.
+Encontre-me no [LinkedIn]() para uma descrição mais detalhada da minha experiência <br/>  de trabalho completa, educação e certificações. <br/> Você pode entrar em contato comigo por e-mail em arakakinaomi228@gmail.com.
 </div>
 
 ### 🤖 Linguagens e Tecnologias
